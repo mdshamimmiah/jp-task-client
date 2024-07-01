@@ -1,0 +1,10 @@
+.nav-item {
+    flex: 1;
+    text-align: center;
+    background-color: #63b3ed; /* bg-blue-300 */
+    padding: 0.5rem;
+    font-weight: bold;
+    margin-right: 0.5rem;
+    width: 120px;
+  }
+  

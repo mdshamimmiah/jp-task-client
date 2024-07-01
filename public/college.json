@@ -1,0 +1,57 @@
+[
+    {
+      "id": 1,
+      "collegeName": "Oxford University",
+      "collegeImage": "https://cdn.britannica.com/03/130603-050-37F7F535/Alliman-Administration-Center-Hesston-College-Mennonite-college.jpg",
+      "collegeRating": 4.8,
+      "admissionDate": "2024-09-01",
+      "numberOfResearch": 150,
+      "details": "https://example.com/colleges/oxford"
+    },
+    {
+      "id": 2,
+      "collegeName": "Harvard University",
+      "collegeImage": "https://media.istockphoto.com/id/1779070756/photo/two-university-students-walk-down-campus-stairs.webp?b=1&s=170667a&w=0&k=20&c=d4o7zsFDdKThhE7DVPCoNRXZN401a8ZHy8cH1071_P4=",
+      "collegeRating": 4.9,
+      "admissionDate": "2024-08-15",
+      "numberOfResearch": 200,
+      "details": "https://example.com/colleges/harvard"
+    },
+    {
+      "id": 3,
+      "collegeName": "Stanford University",
+      "collegeImage": "https://t3.ftcdn.net/jpg/00/37/59/54/360_F_37595432_eiYo7ms0vXleIMYlFLywjdwfPqWypQbK.jpg",
+      "collegeRating": 4.7,
+      "admissionDate": "2024-07-30",
+      "numberOfResearch": 180,
+      "details": "https://example.com/colleges/stanford"
+    },
+    {
+      "id": 4,
+      "collegeName": "MIT",
+      "collegeImage": "https://springfield.edu/sites/default/files/hscexterior.jpg",
+      "collegeRating": 4.9,
+      "admissionDate": "2024-09-10",
+      "numberOfResearch": 220,
+      "details": "https://example.com/colleges/mit"
+    },
+    {
+      "id": 5,
+      "collegeName": "University of Cambridge",
+      "collegeImage": "https://www.thoughtco.com/thmb/PCVPjqDcfiY4az_kycvn-EJA-e8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/swarthmore-college-Eric-Behrens-flickr-5706ffe35f9b581408d48cb3.jpg",
+      "collegeRating": 4.8,
+      "admissionDate": "2024-08-25",
+      "numberOfResearch": 170,
+      "details": "https://example.com/colleges/cambridge"
+    },
+    {
+      "id": 6,
+      "collegeName": "California Institute of Technology",
+      "collegeImage": "https://www.goshen.edu/wp-content/uploads/2020/10/left1.jpg",
+      "collegeRating": 4.7,
+      "admissionDate": "2024-09-05",
+      "numberOfResearch": 160,
+      "details": "https://example.com/colleges/caltech"
+    }
+  ]
+  
